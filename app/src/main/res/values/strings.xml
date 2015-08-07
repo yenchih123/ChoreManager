@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Chore Manager</string>
+    <string name="notification">Notifications:</string>
+    <string name="upcoming_chores">Upcoming_Chores:</string>
+    <string name="title_section1">Profile</string>
+    <string name="title_section2">Main Menu</string>
+    <string name="title_section3">All Chores</string>
+    <string name="your_chores">Your Chores:</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="profile_title">Profile</string>
+</resources>
